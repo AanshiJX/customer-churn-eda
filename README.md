@@ -1,2 +1,72 @@
-# customer-churn-eda
-Exploratory data analysis of customer churn using Python, Pandas and NumPy.
+# Customer Churn EDA
+
+This project explores customer churn using Python, Pandas, and NumPy.
+
+The goal of this project is to understand customer churn patterns and
+find out which customer characteristics are associated with higher churn.
+
+## Dataset
+
+The dataset contains information about customers, including:
+
+- Customer tenure
+- Monthly and total charges
+- Contract type
+- Payment method
+- Internet service
+- Customer demographics
+- Churn status
+
+## Tools Used
+
+- Python
+- Pandas
+- NumPy
+- Jupyter Notebook
+
+## What I Did
+
+In this project, I:
+
+- Loaded and inspected the dataset
+- Checked data types and missing values
+- Checked for duplicate records
+- Performed descriptive statistical analysis
+- Analyzed customer churn rates
+- Compared churn across different customer groups
+- Used NumPy for numerical analysis
+- Identified patterns related to customer churn
+
+## Key Findings
+
+Some important patterns I found:
+
+- Customers with less than 12 months of tenure had a churn rate of **48.29%**.
+- Customers with 12 months or more of tenure had a churn rate of **17.49%**.
+- Month-to-month customers had a churn rate of **42.71%**.
+- Customers using electronic check had a churn rate of **45.29%**.
+- Fiber optic customers had a churn rate of **41.89%**.
+- Senior citizens had a churn rate of **41.68%**.
+
+## Conclusion
+
+This project helped me understand customer churn patterns and gave me
+more practice with Pandas, NumPy, and working with real-world data.
+
+The project can be taken further by adding data visualization and
+building a machine learning model to predict customer churn.
+
+## Future Improvements
+
+I plan to improve this project as I learn more about machine learning by
+adding data visualization and building a machine learning model to predict
+customer churn.
+
+I will continue improving this project as I build my AI and machine
+learning skills.
+
+## Project Notebook
+
+The complete analysis can be found in:
+
+`Customer_Churn_EDA.ipynb`
