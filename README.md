@@ -71,7 +71,7 @@ The complete analysis can be found in:
 
 `Customer_Churn_EDA.ipynb`
 
-## Dataset
+## Dataset Source
 The dataset used in this project is the IBM Telco Customer Churn dataset.
 
 Dataset source: Kaggle
