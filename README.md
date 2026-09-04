@@ -70,3 +70,8 @@ learning skills.
 The complete analysis can be found in:
 
 `Customer_Churn_EDA.ipynb`
+
+## Dataset
+The dataset used in this project is the IBM Telco Customer Churn dataset.
+
+Dataset source: Kaggle
