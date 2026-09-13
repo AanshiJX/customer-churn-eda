@@ -76,6 +76,7 @@ skills.
 The project contains two notebooks:
 
 - `Customer_Churn_EDA.ipynb` — Exploratory data analysis and customer churn analysis
+- `Customer_Churn_Visualization.ipynb` — Visualizations of customer churn patterns
 
 
 
