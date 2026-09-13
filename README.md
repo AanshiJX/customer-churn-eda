@@ -38,6 +38,7 @@ In this project, I:
 - Analyzed customer churn rates
 - Compared churn across different customer groups
 - Used NumPy for numerical analysis
+- Created visualizations to understand churn patterns
 - Identified patterns related to customer churn
 
 ## Key Findings
@@ -53,25 +54,28 @@ Some important patterns I found:
 
 ## Conclusion
 
-This project helped me understand customer churn patterns and gave me
-more practice with Pandas, NumPy, and working with real-world data.
+This project helped me understand customer churn patterns and gave me more
+practice with Pandas, NumPy, Matplotlib, and working with real-world data.
 
-The project can be taken further by adding data visualization and
-building a machine learning model to predict customer churn.
+The analysis and visualizations helped me identify customer groups with
+higher observed churn rates.
+
+The project can be taken further by building a machine learning model to
+predict customer churn.
 
 ## Future Improvements
 
-I plan to improve this project as I learn more about machine learning by
-adding data visualization and building a machine learning model to predict
-customer churn.
+I plan to take this project further by building a machine learning model
+to predict customer churn as I learn more about machine learning.
 
-I will continue improving this project as I build my AI and machine
-learning skills.
+I will continue improving this project as I build my AI and machine learning
+skills.
 
-## Project Notebook
+## Project Notebooks
 
-The complete analysis can be found in:
+The project contains two notebooks:
 
-`Customer_Churn_EDA.ipynb`
+- `Customer_Churn_EDA.ipynb` — Exploratory data analysis and customer churn analysis
+- `Customer_Churn_Visualization.ipynb` — Visualizations of customer churn patterns
 
 
